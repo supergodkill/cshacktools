@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  dllmain.cpp
+  imgui.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui.cpp(1977,10): error C2006: “#include”: 应为 "FILENAME" 或 <FILENAME>
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui.cpp(2747,9): warning C4005: “va_copy”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui.cpp(16053,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_demo.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_demo.cpp(153,9): warning C4005: “IM_NEWLINE”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_demo.cpp(169,9): warning C4005: “PRId64”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_demo.cpp(170,9): warning C4005: “PRIu64”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_demo.cpp(187,9): warning C4005: “IMGUI_CDECL”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_demo.cpp(8758,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_draw.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_draw.cpp(124,10): error C2006: “#include”: 应为 "FILENAME" 或 <FILENAME>
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_draw.cpp(148,10): error C2006: “#include”: 应为 "FILENAME" 或 <FILENAME>
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_draw.cpp(4624,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_impl_dx9.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_impl_dx9.cpp(69,9): warning C4005: “IMGUI_COL_TO_DX9_ARGB”: 宏重定义
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_impl_dx9.cpp(412,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_impl_win32.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_impl_win32.cpp(923,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_tables.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_tables.cpp(4449,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  imgui_widgets.cpp
+E:\system_profile\Desktop\cshook\hook\ImGui\imgui_widgets.cpp(9030,1): error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
